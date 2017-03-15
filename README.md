@@ -8,6 +8,8 @@ Dependencies:
 - jquery-1.11.3.js
 - password-strength-dropbox.js
 
+# Resources
+
 Bootstrap Checkbox:
 http://montrezorro.github.io/bootstrap-checkbox/
 
